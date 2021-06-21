@@ -1,0 +1,1 @@
+[{"firstname":"Bondhan","lastname":"Mondal","gender":"Male","dob":"2021-06-01","religion":"hindu","present_address":"dhaka","parmanent_address":"","phone":"01733126693","email":"bondhan2725@gmail.com","website":"ssssss.com","username":"bondhan","password":"1234"}]
